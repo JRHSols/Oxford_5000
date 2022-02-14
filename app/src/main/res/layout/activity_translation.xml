@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+android:id="@+id/activity_translation"
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:orientation="vertical"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:background="@drawable/background_black">
+
+<LinearLayout
+    android:id="@+id/main_menu"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:orientation="horizontal"
+    android:gravity="center">
+</LinearLayout>
+
+<LinearLayout
+    android:id="@+id/rus_text"
+    android:orientation="horizontal"
+    android:layout_height="100dp"
+    android:layout_width="match_parent"
+    android:gravity="center"
+    android:layout_gravity="center">
+
+    <TextView
+        android:id="@+id/rus_word"
+        android:text="russian"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorWhite"
+        android:textSize="38sp"
+        android:gravity="center"
+        android:layout_marginHorizontal="20dp"/>
+</LinearLayout>
+
+<LinearLayout
+    android:id="@+id/eng_text"
+    android:orientation="horizontal"
+    android:layout_height="100dp"
+    android:layout_width="match_parent"
+    android:gravity="center"
+    android:layout_marginBottom="20dp"
+    android:layout_gravity="center">
+
+    <TextView
+        android:id="@+id/eng_word"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorWhite"
+        android:textSize="38sp"
+        android:textCursorDrawable="@null"
+        android:gravity="center"
+        android:layout_marginHorizontal="20dp"/>
+</LinearLayout>
+
+<LinearLayout
+    android:id="@+id/keypad"
+    android:orientation="vertical"
+    android:layout_height="wrap_content"
+    android:layout_width="wrap_content"
+    android:layout_gravity="center"
+    tools:ignore="Suspicious0dp">
+</LinearLayout>
+
+<LinearLayout
+    android:id="@+id/control_buttons"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="40dp">
+
+    <LinearLayout
+        android:id="@+id/control_buttons_left"
+        android:orientation="horizontal"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        android:layout_weight="1">
+
+        <ImageButton
+            android:id="@+id/key_reload"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:background="@drawable/letter_button"
+            android:src="@drawable/reload_white"
+            android:padding="10dp"
+            android:textAllCaps="true"
+            android:textColor="@color/colorWhite"
+            android:textSize="28sp"
+            android:scaleType="centerInside"/>
+
+        <ImageButton
+            android:id="@+id/key_backspace"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:background="@drawable/letter_button"
+            android:src="@drawable/backspace_white"
+            android:padding="10dp"
+            android:textAllCaps="true"
+            android:textColor="@color/colorWhite"
+            android:scaleType="centerInside"
+            android:layout_marginLeft="20dp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/control_buttons_right"
+        android:orientation="horizontal"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        android:layout_weight="1">
+
+        <Button
+            android:id="@+id/next_word"
+            android:layout_width="150dp"
+            android:layout_height="50sp"
+            android:background="@drawable/letter_button"
+            android:text="next"
+            android:textAllCaps="true"
+            android:textColor="@color/colorWhite"
+            android:textSize="28sp"
+            app:layout_constraintLeft_toRightOf="parent"/>
+    </LinearLayout>
+</LinearLayout>
+
+
+</LinearLayout>

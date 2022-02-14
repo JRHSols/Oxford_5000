@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/main"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_black">
+
+
+//LEARNING/TESTING MENU
+//================================================================================
+    <LinearLayout
+        android:id="@+id/learning_testing_menu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_gravity="center_horizontal">
+
+//LEARNING
+//------------------------------------------------------------
+            <Button
+                android:id="@+id/learning"
+                android:text="Learning"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/colorWhite"
+                android:textSize="28sp"
+                android:gravity="center"/>
+
+//LISTENING
+//------------------------------------------------------------
+            <Button
+                android:id="@+id/listening"
+                android:text="Listening"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/colorWhite"
+                android:textSize="28sp"
+                android:gravity="center"/>
+
+//TRANSLATION
+//------------------------------------------------------------
+            <Button
+                android:id="@+id/translation"
+                android:text="Translation"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/colorWhite"
+                android:textSize="28sp"
+                android:gravity="center"/>
+
+//LISTENING TEST
+//------------------------------------------------------------
+            <Button
+                android:id="@+id/listening_test"
+                android:text="Listening Test"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/colorWhite"
+                android:textSize="28sp"
+                android:gravity="center"/>
+
+//TRANSLATION TEST
+//------------------------------------------------------------
+             <Button
+                android:id="@+id/translation_test"
+                android:text="Translation Test"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/colorWhite"
+                android:textSize="28sp"
+                android:gravity="center"/>
+
+    </LinearLayout>
+//===============================================================================
+</LinearLayout>
