@@ -1,11 +1,7 @@
 [
     {
-        "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
-        "source": "F:\\ANDROID\\Oxford 5000\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
-    },
-    {
-        "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
-        "source": "F:\\ANDROID\\Oxford 5000\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+        "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\raw_keep_sound.mp3.flat",
+        "source": "F:\\ANDROID\\Oxford 5000\\app\\src\\main\\res\\raw\\keep_sound.mp3"
     },
     {
         "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
@@ -16,12 +12,108 @@
         "source": "F:\\ANDROID\\Oxford 5000\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_listening.xml.flat",
-        "source": "F:\\ANDROID\\Oxford 5000\\app\\src\\main\\res\\layout\\activity_listening.xml"
-    },
-    {
         "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
         "source": "F:\\ANDROID\\Oxford 5000\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "F:\\ANDROID\\Oxford 5000\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\raw_forget_sound.mp3.flat",
+        "source": "F:\\ANDROID\\Oxford 5000\\app\\src\\main\\res\\raw\\forget_sound.mp3"
+    },
+    {
+        "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\raw_order_sound.mp3.flat",
+        "source": "F:\\ANDROID\\Oxford 5000\\app\\src\\main\\res\\raw\\order_sound.mp3"
+    },
+    {
+        "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\raw_guess_sound.mp3.flat",
+        "source": "F:\\ANDROID\\Oxford 5000\\app\\src\\main\\res\\raw\\guess_sound.mp3"
+    },
+    {
+        "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "F:\\ANDROID\\Oxford 5000\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\raw_become_sound.mp3.flat",
+        "source": "F:\\ANDROID\\Oxford 5000\\app\\src\\main\\res\\raw\\become_sound.mp3"
+    },
+    {
+        "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\layout_keypad_row_layout.xml.flat",
+        "source": "F:\\ANDROID\\Oxford 5000\\app\\src\\main\\res\\layout\\keypad_row_layout.xml"
+    },
+    {
+        "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\raw_add_sound.mp3.flat",
+        "source": "F:\\ANDROID\\Oxford 5000\\app\\src\\main\\res\\raw\\add_sound.mp3"
+    },
+    {
+        "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\drawable_oxford_university_logo.png.flat",
+        "source": "F:\\ANDROID\\Oxford 5000\\app\\src\\main\\res\\drawable\\oxford_university_logo.png"
+    },
+    {
+        "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\raw_show_sound.mp3.flat",
+        "source": "F:\\ANDROID\\Oxford 5000\\app\\src\\main\\res\\raw\\show_sound.mp3"
+    },
+    {
+        "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_learning.xml.flat",
+        "source": "F:\\ANDROID\\Oxford 5000\\app\\src\\main\\res\\layout\\activity_learning.xml"
+    },
+    {
+        "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\drawable_reload_white.png.flat",
+        "source": "F:\\ANDROID\\Oxford 5000\\app\\src\\main\\res\\drawable\\reload_white.png"
+    },
+    {
+        "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sound.png.flat",
+        "source": "F:\\ANDROID\\Oxford 5000\\app\\src\\main\\res\\drawable\\sound.png"
+    },
+    {
+        "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\drawable_backspace_white.png.flat",
+        "source": "F:\\ANDROID\\Oxford 5000\\app\\src\\main\\res\\drawable\\backspace_white.png"
+    },
+    {
+        "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\raw_improve_sound.mp3.flat",
+        "source": "F:\\ANDROID\\Oxford 5000\\app\\src\\main\\res\\raw\\improve_sound.mp3"
+    },
+    {
+        "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "F:\\ANDROID\\Oxford 5000\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\raw_return_sound.mp3.flat",
+        "source": "F:\\ANDROID\\Oxford 5000\\app\\src\\main\\res\\raw\\return_sound.mp3"
+    },
+    {
+        "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_translation_test.xml.flat",
+        "source": "F:\\ANDROID\\Oxford 5000\\app\\src\\main\\res\\layout\\activity_translation_test.xml"
+    },
+    {
+        "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_black.png.flat",
+        "source": "F:\\ANDROID\\Oxford 5000\\app\\src\\main\\res\\drawable\\background_black.png"
+    },
+    {
+        "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\ANDROID\\Oxford 5000\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\raw_need_sound.mp3.flat",
+        "source": "F:\\ANDROID\\Oxford 5000\\app\\src\\main\\res\\raw\\need_sound.mp3"
+    },
+    {
+        "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\raw_understand_sound.mp3.flat",
+        "source": "F:\\ANDROID\\Oxford 5000\\app\\src\\main\\res\\raw\\understand_sound.mp3"
+    },
+    {
+        "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "F:\\ANDROID\\Oxford 5000\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "F:\\ANDROID\\Oxford 5000\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_listening.xml.flat",
+        "source": "F:\\ANDROID\\Oxford 5000\\app\\src\\main\\res\\layout\\activity_listening.xml"
     },
     {
         "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
@@ -36,16 +128,16 @@
         "source": "F:\\ANDROID\\Oxford 5000\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "F:\\ANDROID\\Oxford 5000\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\raw_hear_sound.mp3.flat",
+        "source": "F:\\ANDROID\\Oxford 5000\\app\\src\\main\\res\\raw\\hear_sound.mp3"
+    },
+    {
+        "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\raw_make_sound.mp3.flat",
+        "source": "F:\\ANDROID\\Oxford 5000\\app\\src\\main\\res\\raw\\make_sound.mp3"
     },
     {
         "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
         "source": "F:\\ANDROID\\Oxford 5000\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
-    },
-    {
-        "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
-        "source": "F:\\ANDROID\\Oxford 5000\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
     },
     {
         "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
@@ -56,12 +148,8 @@
         "source": "F:\\ANDROID\\Oxford 5000\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\layout_keypad_row_layout.xml.flat",
-        "source": "F:\\ANDROID\\Oxford 5000\\app\\src\\main\\res\\layout\\keypad_row_layout.xml"
-    },
-    {
-        "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\drawable_oxford_university_logo.png.flat",
-        "source": "F:\\ANDROID\\Oxford 5000\\app\\src\\main\\res\\drawable\\oxford_university_logo.png"
+        "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\raw_laugh_sound.mp3.flat",
+        "source": "F:\\ANDROID\\Oxford 5000\\app\\src\\main\\res\\raw\\laugh_sound.mp3"
     },
     {
         "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
@@ -76,12 +164,20 @@
         "source": "F:\\ANDROID\\Oxford 5000\\app\\src\\main\\res\\layout\\activity_listening_test.xml"
     },
     {
+        "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\raw_join_sound.mp3.flat",
+        "source": "F:\\ANDROID\\Oxford 5000\\app\\src\\main\\res\\raw\\join_sound.mp3"
+    },
+    {
         "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\drawable_letter_button.xml.flat",
         "source": "F:\\ANDROID\\Oxford 5000\\app\\src\\main\\res\\drawable\\letter_button.xml"
     },
     {
-        "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_learning.xml.flat",
-        "source": "F:\\ANDROID\\Oxford 5000\\app\\src\\main\\res\\layout\\activity_learning.xml"
+        "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\raw_prepare_sound.mp3.flat",
+        "source": "F:\\ANDROID\\Oxford 5000\\app\\src\\main\\res\\raw\\prepare_sound.mp3"
+    },
+    {
+        "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\raw_come_sound.mp3.flat",
+        "source": "F:\\ANDROID\\Oxford 5000\\app\\src\\main\\res\\raw\\come_sound.mp3"
     },
     {
         "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
@@ -92,24 +188,12 @@
         "source": "F:\\ANDROID\\Oxford 5000\\app\\src\\main\\res\\layout\\keypad_button_layout.xml"
     },
     {
-        "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\drawable_reload_white.png.flat",
-        "source": "F:\\ANDROID\\Oxford 5000\\app\\src\\main\\res\\drawable\\reload_white.png"
-    },
-    {
-        "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sound.png.flat",
-        "source": "F:\\ANDROID\\Oxford 5000\\app\\src\\main\\res\\drawable\\sound.png"
-    },
-    {
         "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
         "source": "F:\\ANDROID\\Oxford 5000\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\drawable_backspace_white.png.flat",
-        "source": "F:\\ANDROID\\Oxford 5000\\app\\src\\main\\res\\drawable\\backspace_white.png"
-    },
-    {
-        "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "F:\\ANDROID\\Oxford 5000\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\raw_discuss_sound.mp3.flat",
+        "source": "F:\\ANDROID\\Oxford 5000\\app\\src\\main\\res\\raw\\discuss_sound.mp3"
     },
     {
         "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
@@ -120,19 +204,23 @@
         "source": "F:\\ANDROID\\Oxford 5000\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
     },
     {
-        "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_translation_test.xml.flat",
-        "source": "F:\\ANDROID\\Oxford 5000\\app\\src\\main\\res\\layout\\activity_translation_test.xml"
+        "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\raw_visit_sound.mp3.flat",
+        "source": "F:\\ANDROID\\Oxford 5000\\app\\src\\main\\res\\raw\\visit_sound.mp3"
+    },
+    {
+        "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\raw_enjoy_sound.mp3.flat",
+        "source": "F:\\ANDROID\\Oxford 5000\\app\\src\\main\\res\\raw\\enjoy_sound.mp3"
+    },
+    {
+        "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\raw_think_sound.mp3.flat",
+        "source": "F:\\ANDROID\\Oxford 5000\\app\\src\\main\\res\\raw\\think_sound.mp3"
     },
     {
         "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_translation.xml.flat",
         "source": "F:\\ANDROID\\Oxford 5000\\app\\src\\main\\res\\layout\\activity_translation.xml"
     },
     {
-        "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_black.png.flat",
-        "source": "F:\\ANDROID\\Oxford 5000\\app\\src\\main\\res\\drawable\\background_black.png"
-    },
-    {
-        "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "F:\\ANDROID\\Oxford 5000\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+        "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\raw_write_sound.mp3.flat",
+        "source": "F:\\ANDROID\\Oxford 5000\\app\\src\\main\\res\\raw\\write_sound.mp3"
     }
 ]
