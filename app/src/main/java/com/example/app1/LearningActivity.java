@@ -33,8 +33,6 @@ public class LearningActivity extends AppCompatActivity {
         final TextView rus_word_view = findViewById(R.id.rus_word);
         rus_word_view.setText(wordList.WORD_LIST[wordId][wordList.RUSSIAN_WORD]);
 
-        //mPlayer= MediaPlayer.create(this, R.raw.add_sound);
-
 
 //-------------------------------------------------------------------------------------
         ImageButton playSound = (ImageButton) findViewById(R.id.sound);
