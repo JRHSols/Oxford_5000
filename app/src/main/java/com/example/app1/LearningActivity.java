@@ -6,6 +6,8 @@ import android.media.MediaPlayer;
 import android.media.SoundPool;
 import android.os.Bundle;
 import android.view.View;
+import android.view.animation.Animation;
+import android.view.animation.AnimationUtils;
 import android.widget.Button;
 import android.widget.ImageButton;
 import android.widget.LinearLayout;
@@ -33,9 +35,11 @@ public class LearningActivity extends AppCompatActivity {
         final TextView rus_word_view = findViewById(R.id.rus_word);
         rus_word_view.setText(wordList.WORD_LIST[wordId][wordList.RUSSIAN_WORD]);
 
+        final Animation animation = AnimationUtils.loadAnimation(this, R.anim.common_animation);
+
 
 //-------------------------------------------------------------------------------------
-        ImageButton playSound = (ImageButton) findViewById(R.id.sound);
+        final ImageButton playSound = (ImageButton) findViewById(R.id.sound);
         playSound.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -43,10 +47,12 @@ public class LearningActivity extends AppCompatActivity {
                 int fileId = getResources().getIdentifier(fileName, "raw", getPackageName());
                 soundPlayer= MediaPlayer.create(LearningActivity.this, fileId);
                 soundPlayer.start();
+
+                playSound.startAnimation(animation);
             }
         });
 //-------------------------------------------------------------------------------------
-        Button nextWordButton = (Button) findViewById(R.id.next_word);
+        final Button nextWordButton = (Button) findViewById(R.id.next_word);
         nextWordButton.setOnClickListener(new View.OnClickListener()
         {
             @Override
@@ -56,6 +62,8 @@ public class LearningActivity extends AppCompatActivity {
                     else wordId = 0;
                     rus_word_view.setText(wordList.WORD_LIST[wordId][wordList.RUSSIAN_WORD]);
                     eng_word_view.setText(wordList.WORD_LIST[wordId][wordList.ENGLISH_WORD]);
+
+                    nextWordButton.startAnimation(animation);
             }
         });
  //-----------------------------------------------------------------------------------------

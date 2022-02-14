@@ -192,6 +192,10 @@
         "source": "F:\\ANDROID\\Oxford 5000\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
+        "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\anim_common_animation.xml.flat",
+        "source": "F:\\ANDROID\\Oxford 5000\\app\\src\\main\\res\\anim\\common_animation.xml"
+    },
+    {
         "merged": "F:\\ANDROID\\Oxford 5000\\app\\build\\intermediates\\res\\merged\\debug\\raw_discuss_sound.mp3.flat",
         "source": "F:\\ANDROID\\Oxford 5000\\app\\src\\main\\res\\raw\\discuss_sound.mp3"
     },
